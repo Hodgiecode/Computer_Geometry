@@ -9,6 +9,8 @@
 
 3. Выпуклая оболочка. Источник: https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
 
+4. Предикат поворота. Источник: https://habr.com/ru/post/138168/
+
 #Д - дополнительные
 
 1. Алгоритм построения ЕМОД. 
