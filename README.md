@@ -4,6 +4,7 @@
 #О - обязательные
 
 1. Триангуляция Делоне. Источник: https://cp-algorithms.com/geometry/delaunay.html#toc-tgt-5
+2. Алгоритм пересечения объединения, пересечения и разности многоугольников на плоскости. Источник: https://github.com/lukaskett/155ADKG/blob/87dadb6d6c07f7bd1137560cb189de5d2d51cfe2/U4/U4_BooleanOperations/algorithms.cpp
 
 
 #Д - дополнительные
