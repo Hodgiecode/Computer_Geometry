@@ -5,7 +5,7 @@
 
 1. Триангуляция Делоне. Источник для v1 : https://cp-algorithms.com/geometry/delaunay.html#toc-tgt-5  Версия v2 имеет сложность O(n^4) и взята из книги О'Рурка
 
-2. Алгоритм пересечения объединения, пересечения и разности многоугольников на плоскости. Источник: https://github.com/lukaskett/155ADKG/blob/87dadb6d6c07f7bd1137560cb189de5d2d51cfe2/U4/U4_BooleanOperations/algorithms.cpp                                                          Сравнение результата с библиотекой Clipper. Осталась проблема с разностью полигонов в библиотеке
+2. Алгоритм пересечения объединения, пересечения и разности многоугольников на плоскости. Источник: https://github.com/lukaskett/155ADKG/blob/87dadb6d6c07f7bd1137560cb189de5d2d51cfe2/U4/U4_BooleanOperations/algorithms.cpp                                                          Сравнение результата с библиотекой Clipper.
 
 3. Выпуклая оболочка. Источник: https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
 
