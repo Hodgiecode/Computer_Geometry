@@ -17,7 +17,7 @@
 
 1. Алгоритм построения ЕМОД. 
 
-2. Алгоритм пересечения отрезков Бентли-Оттмана.  Источник: https://cp-algorithms.com/geometry/intersecting_segments.html                                                            v2 https://github.com/Girish-1-Goyal/Algorithms-DSA/blob/930e9b3dc0a1bbc048d2b4df04fdb8c4b2fadecc/04%20Math/Computational_Geometry_12_Line_Sweep_2_Segments_Intersection.cpp
+2. Алгоритм пересечения отрезков Бентли-Оттмана. 
 
 #### В - вне конкурса
 
